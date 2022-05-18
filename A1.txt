@@ -1,4 +1,7 @@
 I am New Her
 I am new to branching 
+<<<<<<< HEAD
 Learning branching
+=======
+>>>>>>> c478858b5ba4d5058d9f3f4e846d5430db5566bd
 
