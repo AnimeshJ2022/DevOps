@@ -1,8 +1,4 @@
-I am New Here 
-<<<<<<< HEAD
+I am New Her
 I am new to branching 
 Learning branching
-=======
-
 I am unknown
->>>>>>> master
