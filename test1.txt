@@ -1,1 +1,3 @@
+this is a modification inside master
+this is a modification inside branch2
 this is a modification inside branch1
