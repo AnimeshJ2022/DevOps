@@ -1,2 +1,3 @@
 Hi practicing stash 
-
+now will try to observe changes
+why its not working
